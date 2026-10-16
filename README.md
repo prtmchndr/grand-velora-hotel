@@ -6,7 +6,17 @@ Grand Velora Hotel is a web development project designed to provide an elegant h
 
 ## Preview
 
-<!-- Add screenshots of the website and admin dashboard here. -->
+### Homepage
+![Grand Velora Hotel Homepage](public/images/screenshots/homepage.png)
+
+### Rooms
+![Room Selection](public/images/screenshots/our-rooms.png)
+
+### Admin Dashboard
+![Admin Dashboard](public/images/screenshots/dashboard-admin.png)
+
+### Reservations
+![Reservation Management](public/images/screenshots/reservation-admin.png)
 
 ## Features
 
